@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nova-moon/static/css/main.f855e6bc.css",
-    "main.js": "/nova-moon/static/js/main.11052cc0.js",
+    "main.js": "/nova-moon/static/js/main.c6f5e8c2.js",
     "static/js/488.be7ac6dc.chunk.js": "/nova-moon/static/js/488.be7ac6dc.chunk.js",
     "index.html": "/nova-moon/index.html",
     "main.f855e6bc.css.map": "/nova-moon/static/css/main.f855e6bc.css.map",
-    "main.11052cc0.js.map": "/nova-moon/static/js/main.11052cc0.js.map",
+    "main.c6f5e8c2.js.map": "/nova-moon/static/js/main.c6f5e8c2.js.map",
     "488.be7ac6dc.chunk.js.map": "/nova-moon/static/js/488.be7ac6dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.11052cc0.js"
+    "static/js/main.c6f5e8c2.js"
   ]
 }
