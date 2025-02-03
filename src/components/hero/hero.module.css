@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #0c1f3a; /* Темный фон */
+    background-color: #dfdfdf; /* Темный фон */
 }
 
 .heroContent {
@@ -34,7 +34,7 @@
     margin: 0;
     line-height: 1.25;
     width: 500px;
-    color: #d3d3d3; /* Лунный серебристый */
+    color: #4e4e4e; /* Лунный серебристый */
 }
 
 
@@ -49,7 +49,7 @@
     padding-top: 30px;
     padding-bottom: 30px;
     width: 438px;
-    color: #B0B0B0; /* Светло-серый текст */
+    color: #919191; /* Светло-серый текст */
 }
 
 .btn {
@@ -57,22 +57,22 @@
 }
 
 .getStartedBtn {
-    width: 438px;
+    width: 420px;
     font-family: 'Poppins';
-    height: 118px;
+    height: 105px;
     font-size: 24px;
     font-weight: 600;
-    border-radius: 5px;
+    border-radius: 10px;
     line-height: 1.5;
-    background-color: #A3AEB9;
-    color: #1D2D44;
-    border: 2px solid #000000;
+    background-color: #4A6FA5;
+    color: #fdfdfd;
+    border: 1px solid #fdfdfd;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .getStartedBtn:hover {
-    background-color: #0056b3;
+    background-color: #1E90FF;
 }
 
 .heroImage img {
