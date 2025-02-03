@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/nova-moon/static/css/main.9872edbe.css",
-    "main.js": "/nova-moon/static/js/main.fb55a9c0.js",
+    "main.css": "/nova-moon/static/css/main.6551eea4.css",
+    "main.js": "/nova-moon/static/js/main.dcd74805.js",
     "static/js/488.be7ac6dc.chunk.js": "/nova-moon/static/js/488.be7ac6dc.chunk.js",
     "static/media/pricing3.svg": "/nova-moon/static/media/pricing3.74f4160354493fdfd11818500ba0916f.svg",
     "static/media/hero.svg": "/nova-moon/static/media/hero.ed93d49bbb150d11bfb4de2ab6c6e6cd.svg",
-    "static/media/about-us.svg": "/nova-moon/static/media/about-us.2be34a14b47a2cc40d4e0aeb5a5db344.svg",
-    "static/media/contact-us.svg": "/nova-moon/static/media/contact-us.e5bb9b7cf97e9b07d7a8511ef6d72057.svg",
+    "static/media/about-us.svg": "/nova-moon/static/media/about-us.03a8dc138363318d935e9c6bd44c2eda.svg",
+    "static/media/contact-us.svg": "/nova-moon/static/media/contact-us.b9ebdbbd0783b7be79fde6676baecfb2.svg",
     "static/media/pricing2.svg": "/nova-moon/static/media/pricing2.80230046d85bd6a2bf5124e44b31d845.svg",
     "static/media/pricing1.svg": "/nova-moon/static/media/pricing1.5f9580762cf7a7834df37b1dcc50b088.svg",
     "static/media/skills-writing.svg": "/nova-moon/static/media/skills-writing.87142644c961dcfc3f56ab0923a5ecfd.svg",
@@ -15,12 +15,12 @@
     "static/media/skills-speaking.svg": "/nova-moon/static/media/skills-speaking.cd97597082beaa77905ef94b3a92b86f.svg",
     "static/media/light-bulb-hero.svg": "/nova-moon/static/media/light-bulb-hero.b596f36e668cad5a9f5467a86f3e24e0.svg",
     "index.html": "/nova-moon/index.html",
-    "main.9872edbe.css.map": "/nova-moon/static/css/main.9872edbe.css.map",
-    "main.fb55a9c0.js.map": "/nova-moon/static/js/main.fb55a9c0.js.map",
+    "main.6551eea4.css.map": "/nova-moon/static/css/main.6551eea4.css.map",
+    "main.dcd74805.js.map": "/nova-moon/static/js/main.dcd74805.js.map",
     "488.be7ac6dc.chunk.js.map": "/nova-moon/static/js/488.be7ac6dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9872edbe.css",
-    "static/js/main.fb55a9c0.js"
+    "static/css/main.6551eea4.css",
+    "static/js/main.dcd74805.js"
   ]
 }
