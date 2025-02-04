@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nova-moon/static/css/main.e4bcb9f5.css",
-    "main.js": "/nova-moon/static/js/main.22fe4200.js",
+    "main.css": "/nova-moon/static/css/main.520443a4.css",
+    "main.js": "/nova-moon/static/js/main.f8167bc3.js",
     "static/js/488.be7ac6dc.chunk.js": "/nova-moon/static/js/488.be7ac6dc.chunk.js",
     "static/media/pricing3.svg": "/nova-moon/static/media/pricing3.74f4160354493fdfd11818500ba0916f.svg",
     "static/media/hero.svg": "/nova-moon/static/media/hero.ed93d49bbb150d11bfb4de2ab6c6e6cd.svg",
@@ -19,12 +19,12 @@
     "static/media/inst.svg": "/nova-moon/static/media/inst.527bf4d07fed12a648f96679d64bec56.svg",
     "static/media/mail.svg": "/nova-moon/static/media/mail.10b99de17f908aceb8ed718572e3e3e9.svg",
     "static/media/burger-btn.svg": "/nova-moon/static/media/burger-btn.3a6f397ad54457edc92b4eb7b4f228c4.svg",
-    "main.e4bcb9f5.css.map": "/nova-moon/static/css/main.e4bcb9f5.css.map",
-    "main.22fe4200.js.map": "/nova-moon/static/js/main.22fe4200.js.map",
+    "main.520443a4.css.map": "/nova-moon/static/css/main.520443a4.css.map",
+    "main.f8167bc3.js.map": "/nova-moon/static/js/main.f8167bc3.js.map",
     "488.be7ac6dc.chunk.js.map": "/nova-moon/static/js/488.be7ac6dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4bcb9f5.css",
-    "static/js/main.22fe4200.js"
+    "static/css/main.520443a4.css",
+    "static/js/main.f8167bc3.js"
   ]
 }
