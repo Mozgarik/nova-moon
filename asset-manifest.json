@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nova-moon/static/css/main.d3a96148.css",
-    "main.js": "/nova-moon/static/js/main.639b6204.js",
+    "main.css": "/nova-moon/static/css/main.e4bcb9f5.css",
+    "main.js": "/nova-moon/static/js/main.22fe4200.js",
     "static/js/488.be7ac6dc.chunk.js": "/nova-moon/static/js/488.be7ac6dc.chunk.js",
     "static/media/pricing3.svg": "/nova-moon/static/media/pricing3.74f4160354493fdfd11818500ba0916f.svg",
     "static/media/hero.svg": "/nova-moon/static/media/hero.ed93d49bbb150d11bfb4de2ab6c6e6cd.svg",
@@ -15,13 +15,16 @@
     "static/media/skills-speaking.svg": "/nova-moon/static/media/skills-speaking.cd97597082beaa77905ef94b3a92b86f.svg",
     "static/media/light-bulb-hero.svg": "/nova-moon/static/media/light-bulb-hero.b596f36e668cad5a9f5467a86f3e24e0.svg",
     "index.html": "/nova-moon/index.html",
-    "static/media/burger-btn.svg": "/nova-moon/static/media/burger-btn.f254004d85c0a7db38dad295943dc0a0.svg",
-    "main.d3a96148.css.map": "/nova-moon/static/css/main.d3a96148.css.map",
-    "main.639b6204.js.map": "/nova-moon/static/js/main.639b6204.js.map",
+    "static/media/telega.svg": "/nova-moon/static/media/telega.7eff7ed31d5a7ad929abd26e3534d933.svg",
+    "static/media/inst.svg": "/nova-moon/static/media/inst.527bf4d07fed12a648f96679d64bec56.svg",
+    "static/media/mail.svg": "/nova-moon/static/media/mail.10b99de17f908aceb8ed718572e3e3e9.svg",
+    "static/media/burger-btn.svg": "/nova-moon/static/media/burger-btn.3a6f397ad54457edc92b4eb7b4f228c4.svg",
+    "main.e4bcb9f5.css.map": "/nova-moon/static/css/main.e4bcb9f5.css.map",
+    "main.22fe4200.js.map": "/nova-moon/static/js/main.22fe4200.js.map",
     "488.be7ac6dc.chunk.js.map": "/nova-moon/static/js/488.be7ac6dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3a96148.css",
-    "static/js/main.639b6204.js"
+    "static/css/main.e4bcb9f5.css",
+    "static/js/main.22fe4200.js"
   ]
 }
